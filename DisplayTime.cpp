@@ -8,5 +8,6 @@ int main()
     int remainingSeconds = seconds % 60;
     cout<<seconds<<" seconds is " <<minutes<<" minutes and "<< remainingSeconds<<" seconds "<<endl;
 
+
     return 0;
 }
