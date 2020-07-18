@@ -21,10 +21,8 @@ int main()
     cout<<a*f<<"\n";
     cout<<c<<endl;
 
+    return 0;
 
-
-
-    
 
 
 }
